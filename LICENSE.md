@@ -1,4 +1,4 @@
-# 
+# ultimate bybit trading bot Module | webhook-support + auto-leverage offers the most advanced bybit trading bot, with webhook-support and auto-leverage. Ideal for professional
 
 
 
